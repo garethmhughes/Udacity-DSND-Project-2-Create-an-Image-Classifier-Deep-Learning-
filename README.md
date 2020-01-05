@@ -1,2 +1,3 @@
-# Udacity-DSND-Project-2-Create-an-Image-Classifier-Deep-Learning-
-Using PyTorch, built and trained a neural network that learns to classify images; going from image data exploration to network training and evaluation.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
